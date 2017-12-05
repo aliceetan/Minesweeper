@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">"Minesweeper "</string>
+    <string name="lose_text">YOU LOSE!</string>
+    <string name="game_title">MINESWEEPER</string>
+    <string name="flag_toggle">FLAG</string>
+    <string name="try_toggle">TRY</string>
+    <string name="hint_btn">HINT</string>
+    <string name="restart">RESTART</string>
+    <string name="title">MINESWEEPER</string>
+    <string name="win_text">YOU WIN!</string>
+    <string name="progress_txt">IN PROGRESS</string>
+</resources>
